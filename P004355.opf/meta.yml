@@ -1,7 +1,7 @@
 id: P004355
 initial_creation_type: ocr
 created_at: 27/03/2020
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-17 11:14:18.979789
 source_metadata:
   id: bdr:W1KG9299
   title: སླེ་ལུང་བཞད་པའི་རྡོ་རྗེའི་གསུང་རྩོམ་སྐོར་གྱི་ཟིན་ཐོ།
@@ -13,3 +13,5 @@ source_metadata:
       volume_number: 1
       total_pages: 148
       base_file: v001.txt
+  access: http://purl.bdrc.io/admindata/AccessRestrictedByTbrc
+  restrictedInChina: false
